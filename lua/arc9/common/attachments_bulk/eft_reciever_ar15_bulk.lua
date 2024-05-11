@@ -102,7 +102,7 @@ ATT.Attachments = {
     {
         PrintName = "Handguard",
         Category = "eft_ar15_hguard",
-        Pos = Vector(-0.15, 0, -1),
+        Pos = Vector(-0.22, 0, -0.99),
         Ang = Angle(0, 90, 0),
         Icon_Offset = Vector(0, 4, 0),
     },
@@ -160,7 +160,7 @@ ATT.Attachments = {
     {
         PrintName = "Handguard",
         Category = "eft_ar15_hguard",
-        Pos = Vector(-0.15, 0, -1),
+        Pos = Vector(-0.22, 0, -0.99),
         Ang = Angle(0, 90, 0),
         Icon_Offset = Vector(0, 4, 0),
     },
@@ -216,7 +216,7 @@ ATT.Attachments = {
     {
         PrintName = "Handguard",
         Category = "eft_ar15_hguard",
-        Pos = Vector(-0.15, 0, -1),
+        Pos = Vector(-0.22, 0, -0.99),
         Ang = Angle(0, 90, 0),
         Icon_Offset = Vector(0, 4, 0),
     },
@@ -274,7 +274,7 @@ ATT.Attachments = {
     {
         PrintName = "Handguard",
         Category = "eft_ar15_hguard",
-        Pos = Vector(-0.15, 0, -1),
+        Pos = Vector(-0.22, 0, -0.99),
         Ang = Angle(0, 90, 0),
         Icon_Offset = Vector(0, 4, 0),
     },
@@ -331,7 +331,7 @@ ATT.Attachments = {
     {
         PrintName = "Handguard",
         Category = "eft_ar15_hguard",
-        Pos = Vector(-0.15, 0, -1),
+        Pos = Vector(-0.22, 0, -0.99),
         Ang = Angle(0, 90, 0),
         Icon_Offset = Vector(0, 4, 0),
     },
